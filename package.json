@@ -16,7 +16,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "concurrently": "^5.1.0"
+    "apollo": "^2.34.0",
+    "concurrently": "^5.1.0",
+    "react": "^18.2.0",
+    "react-resize-detector": "^7.1.2"
   },
   "devDependencies": {
     "sass": "^1.35.2"

@@ -1,1 +1,1 @@
-export { default } from "./components/shelf/shelf";
+export { default } from "./components/ShelfItem/Shelf";
