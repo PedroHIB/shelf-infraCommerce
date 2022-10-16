@@ -1,5 +1,5 @@
 {
-  "vendor": "corebiz",
+  "vendor": "infra",
   "name": "store-theme",
   "version": "0.0.1",
   "builders": {
